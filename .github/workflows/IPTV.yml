@@ -25,7 +25,7 @@ jobs:
           rm chromedriver_linux64.zip
       - name: Set chromedriver path
         run: |
-          sudo ln -sf /usr/local/bin/chrome-headless-shell-linux64/chrome-headless-shell
+          sudo ln -sf /usr/local/bin/chrome-headless-shell-linux64/chrome-headless-shell /usr/local/bin/chromedriver
           sudo chmod +x /usr/local/bin/chromedriver
       - name: Run script
         run: python ${{ github.workspace }}/IPTV.py
