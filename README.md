@@ -1,12 +1,11 @@
 自动获取直播源
 
- 最新结果
 
-- 接口源：
+接口源
+
 https://ghproxy.1888866.xyz/github.com/jiandantv/tv/blob/master/output/result.txt
 
 https://ghproxy.1888866.xyz/github.com/jiandantv/tv/blob/master/output/result.m3u
-
 
 或
 
