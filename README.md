@@ -1,5 +1,8 @@
 自动获取直播源
 
+加速地址生成
+
+https://github.akams.cn/
 
 接口源
 
