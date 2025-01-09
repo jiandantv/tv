@@ -3,21 +3,16 @@
  最新结果
 
 - 接口源：
+https://ghproxy.1888866.xyz/github.com/jiandantv/tv/blob/master/output/result.txt
 
-https://ghproxy.1888866.xyz/raw.github.com/jiandantv/tv/gd/output/result.m3u
+https://ghproxy.1888866.xyz/github.com/jiandantv/tv/blob/master/output/result.m3u
 
-https://ghproxy.1888866.xyz/raw.github.com/jiandantv/tv/gd/output/result.txt
-```
 
 或
 
-```bash
-https://cdn.jsdelivr.net/gh/jiandantv/tv@gd/output/result.m3u
-```
+https://gh.llkk.cc/https://github.com/jiandantv/tv/blob/master/output/result.txt
 
-```bash
-https://cdn.jsdelivr.net/gh/jiandantv/tv@gd/output/result.txt
-```
+https://gh.llkk.cc/https://github.com/jiandantv/tv/blob/master/output/result.m3u
 
 
 ## 配置
