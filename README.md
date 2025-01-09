@@ -1,10 +1,6 @@
-自动获取直播源
+★ ★ ★ 自动获取直播源 ★ ★ ★
 
-加速地址生成
-
-https://github.akams.cn/
-
-接口源
+接口源地址
 
 https://ghproxy.1888866.xyz/github.com/jiandantv/tv/blob/master/output/result.txt
 
