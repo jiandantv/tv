@@ -6,11 +6,6 @@ https://ghproxy.1888866.xyz/github.com/jiandantv/tv/blob/master/output/result.tx
 
 https://ghproxy.1888866.xyz/github.com/jiandantv/tv/blob/master/output/result.m3u
 
-或
-
-https://gh.llkk.cc/https://github.com/jiandantv/tv/blob/master/output/result.txt
-
-https://gh.llkk.cc/https://github.com/jiandantv/tv/blob/master/output/result.m3u
 
 
 ## 配置
