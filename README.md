@@ -2,6 +2,12 @@
 
 接口源地址
 
+https://raw.githubusercontent.com/jiandantv/tv/refs/heads/master/output/result.txt
+
+https://raw.githubusercontent.com/jiandantv/tv/refs/heads/master/output/result.m3u
+
+加速地址
+
 https://ghproxy.1888866.xyz/github.com/jiandantv/tv/blob/master/output/result.txt
 
 https://ghproxy.1888866.xyz/github.com/jiandantv/tv/blob/master/output/result.m3u
