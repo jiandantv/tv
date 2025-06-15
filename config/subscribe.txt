@@ -4,7 +4,6 @@
 http://47.120.41.246:8899/xinzb.txt
 http://home.jundie.top:81/Cat/tv/live.txt
 http://rihou.cc:567/gggg.nzk/
-https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/result.txt
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/tv.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u
