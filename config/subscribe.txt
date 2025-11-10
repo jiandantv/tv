@@ -9,3 +9,4 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/iptv.m3u
 https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/webview.m3u
+https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
