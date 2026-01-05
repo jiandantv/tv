@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-03 14:50:51,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-05 14:58:20,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1287,6 +1287,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 江苏体育,https://migu.188766.xyz/?migutoken=8f3c5e11a253e37a59317a21c31ea149&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
 江苏体育,https://migu.188766.xyz/?migutoken=a4a098aacdd462f7c71acdcf440c9de3&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
 江苏体育,https://migu.188766.xyz/?migutoken=328a5f4c948e5235bcf2e8bdfcdf5bd8&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
+江苏体育,https://migu.188766.xyz/?migutoken=260c5109f6d6410628d180fde42e8868&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
 江苏城市,http://z.b.bkpcp.top/m.php?id=jscs
 江苏城市,https://stream1.freetv.fun/675206b8446ce719bfb293b5a5296db3aa26521c9810de7c996838247cc56964.ctv
 江苏城市,https://mursor.ottiptv.cc/migu/626064714.m3u8?migutoken=b92ada516923349cef01531d5bff5992a22ba9122a3e7c2696e7edd09a971fa6e2a2e1a2209c9ab3c9a404643dce743a2de2a97c7793ae60e3b2614d285ec1c42bcb6619c30a8bb2923adbbb68
@@ -1695,6 +1696,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南自贸,https://migu.188766.xyz/?migutoken=b93e9ccf5018df12d98d4fe4966ab0ca&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=1ab79dfd3ccf14b16afc3162a5c4e543&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=f7008989aba9a5db07961eee96989c0d&id=hn_jjpd&type=sz
+海南自贸,https://migu.188766.xyz/?migutoken=a23ff3bf2edd9b5b28a79b945f893942&id=hn_jjpd&type=sz
 海南文旅,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/1.m3u8
 海南文旅,https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-7.m3u8
 海南文旅,https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-9.m3u8
@@ -1714,6 +1716,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南少儿,https://migu.188766.xyz/?migutoken=93e27a13ca3947df404d030e9388b1c3&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=e232ce8913e6b21ad434504029a9f734&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=8cf905b2f69e98adcae0d11675dca63e&id=hn_sepd&type=sz
+海南少儿,https://migu.188766.xyz/?migutoken=5c26aa273064c9e8c3a14e85c270791e&id=hn_sepd&type=sz
 海南公共,http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8
 海南公共,https://stream1.freetv.fun/ipv6-hai-nan-gong-gong-8.m3u8
 海南公共,https://stream1.freetv.fun/ipv6-hai-nan-gong-gong-9.m3u8
@@ -2438,6 +2441,7 @@ CCTV-5+,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 江苏体育,https://migu.188766.xyz/?migutoken=8f3c5e11a253e37a59317a21c31ea149&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
 江苏体育,https://migu.188766.xyz/?migutoken=a4a098aacdd462f7c71acdcf440c9de3&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
 江苏体育,https://migu.188766.xyz/?migutoken=328a5f4c948e5235bcf2e8bdfcdf5bd8&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
+江苏体育,https://migu.188766.xyz/?migutoken=260c5109f6d6410628d180fde42e8868&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
 安徽综艺体育,https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1745774515&key=27009aec794adc785b22478c5aa2ae16
 安徽综艺体育,https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1746292937&key=940b0f98a121c28884c74971efaac4de
 安徽综艺体育,https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1746307365&key=6b104d1fc66c5b34b63d0e19c627e0f9
